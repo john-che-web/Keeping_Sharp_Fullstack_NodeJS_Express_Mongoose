@@ -130,11 +130,3 @@ module.exports = mongoose.model('Order', orderSchema);
 * Handle concurrent orders for same product
 
 ---
-
-These **mini projects hit:**
-
-* CRUD operations
-* Validation / edge cases
-* JWT auth & middleware
-* Mongoose hooks & methods
-* Async/await patterns
